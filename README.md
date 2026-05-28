@@ -1,0 +1,1 @@
+# EcoOrbit - Modelo para classificar áreas em desmatamento via imagens de satélites.
