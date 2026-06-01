@@ -19,7 +19,6 @@ datasets/
 *.pth
 *.pb
 *.joblib
-*.keras
 
 __pycache__/
 *.pyc
