@@ -14,6 +14,8 @@ API desenvolvida em Flask para a detecção de focos de incêndio em imagens, ut
 
 ---
 
+[Video de apresentação](https://www.youtube.com/watch?v=YMkqZ-ai-gw)
+
 ## Arquitetura do Sistema
 
 O diagrama abaixo ilustra a separação de responsabilidades da API, evidenciando o fluxo desde a requisição do cliente até a inferência no modelo de Machine Learning.
